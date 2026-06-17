@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40">
+  <rect width="160" height="40" fill="none"/>
+  <text x="8" y="16" font-family="Georgia,serif" font-size="11" font-weight="700" fill="#1a1a1a" letter-spacing="0.5">THIRD</text>
+  <text x="8" y="32" font-family="Georgia,serif" font-size="11" font-weight="400" fill="#555" letter-spacing="2">NEWS</text>
+  <rect x="70" y="6" width="2" height="28" fill="#572487" opacity="0.4"/>
+</svg>
